@@ -2,7 +2,7 @@
 代码同时托管在codePen中，链接如下：
 <ul>
 <li>
-<p><a href="https://codepen.io/magicmai/full/peLOpZ" rel="nofollow">1. 一个致敬页</a></p>
+<p><a href="https://codepen.io/huangjiasweet/pen/zpPqyQ" rel="nofollow">1. 一个致敬页</a></p>
 </li>
 <li>
 <p><a href="https://codepen.io/magicmai/full/ZeVdgV" rel="nofollow">2.个人作品集</a></p>
