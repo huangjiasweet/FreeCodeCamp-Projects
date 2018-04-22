@@ -17,7 +17,7 @@
 <p><a href="https://codepen.io/huangjiasweet/pen/zpLJmb" rel="nofollow">5. 显示当地天气</a></p>
 </li>
 <li>
-<p><a href="https://codepen.io/huangjiasweet/pen/NXLoGw" rel="nofollow">6. 维基百科阅读器</a></p>
+<p><a href="https://codepen.io/huangjiasweet/pen/oqBqJm" rel="nofollow">6. 维基百科阅读器</a></p>
 </li>
 <li>
 <p><a href="https://codepen.io/huangjiasweet/pen/ZvqoPr" rel="nofollow">7. 显示Twitchtv用户在线情况的应用</a></p>
